@@ -1,0 +1,6 @@
+这是我在 GitHub 网页上创建的文件。
+
+我正在学习 Git fetch 和 Git pull。
+
+Fetch 负责获取远程更新。
+Pull 负责获取并整合远程更新。
