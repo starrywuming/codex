@@ -4,4 +4,4 @@
 1. 工作区
 2. 暂存区
 3. 本地仓库
-我已经学会使用 git fetch 和 git pull。
+practice 分支：我正在练习 Git 分支协作。
